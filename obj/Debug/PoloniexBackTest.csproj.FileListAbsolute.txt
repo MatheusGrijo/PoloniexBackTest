@@ -1,0 +1,8 @@
+C:\programas\PoloniexBackTest\obj\Debug\PoloniexBackTest.csproj.CoreCompileInputs.cache
+C:\programas\PoloniexBackTest\bin\Debug\MySql.Data.dll
+C:\programas\PoloniexBackTest\bin\Debug\TA-Lib-Core.dll
+C:\programas\PoloniexBackTest\bin\Debug\PoloniexBackTest.exe.config
+C:\programas\PoloniexBackTest\bin\Debug\PoloniexBackTest.exe
+C:\programas\PoloniexBackTest\bin\Debug\PoloniexBackTest.pdb
+C:\programas\PoloniexBackTest\obj\Debug\PoloniexBackTest.exe
+C:\programas\PoloniexBackTest\obj\Debug\PoloniexBackTest.pdb
